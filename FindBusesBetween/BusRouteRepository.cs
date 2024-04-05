@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// Módulo 6
+
 namespace Pluralsight.ArraysCollections.Demos
 {
     public class BusRouteRepository
