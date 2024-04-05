@@ -1,0 +1,16 @@
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.exe
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.deps.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.runtimeconfig.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.runtimeconfig.dev.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\bin\Debug\net5.0\RemoveTestData.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.AssemblyInfoInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.AssemblyInfo.cs
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.csproj.CoreCompileInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.sourcelink.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\refint\RemoveTestData.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\RemoveTestData.genruntimeconfig.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\RemoveTestData\obj\Debug\net5.0\ref\RemoveTestData.dll
