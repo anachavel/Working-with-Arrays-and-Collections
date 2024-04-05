@@ -1,0 +1,16 @@
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.exe
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.deps.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.dev.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\bin\Debug\net5.0\WhichBus.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfoInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfo.cs
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.csproj.CoreCompileInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.sourcelink.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\refint\WhichBus.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\WhichBus.genruntimeconfig.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Working-with-Arrays-and-Collections\WhichBus\obj\Debug\net5.0\ref\WhichBus.dll
