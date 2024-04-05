@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-// Prueba para el commit del mod_5
+
 namespace Pluralsight.ArraysCollections.Demos
 {
     class Program
