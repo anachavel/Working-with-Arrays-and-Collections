@@ -12,5 +12,5 @@ namespace Pluralsight.ArraysCollections.Demos
             this.Destination = destination;
         }
         public override string ToString() => $"{Name} to {Destination}";
-	}
+    }
 }
